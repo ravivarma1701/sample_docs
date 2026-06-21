@@ -1,0 +1,8 @@
+angchain
+langchain-community
+langchain-huggingface
+langchain-qdrant
+langchain-groq
+sentence-transformers
+qdrant-client
+langchain-docling
